@@ -28,30 +28,23 @@ The report also visualizes employee trends over time and across various dimensio
 store location. This allows HR professionals and management to track and assess workforce performance effectively,
 supporting strategic decision-making.
  
-https://github.com/thaonguyen2005-work/Human-Resource-Management-Analysis/issues/2#issue-2562071974
+![455084974_122107672892445467_812735856978716961_n (1)](https://github.com/user-attachments/assets/3e3179f8-2e0d-4c23-9efd-e609067dc908)
 
 ### 2. Detailed of Human Resource Report:
 
 This report page provides a detailed view of the company's active employee trends and organizational structure. 
-The filters on the left allow users to adjust the report based on specific dates, stores, departments, and job titles, offering 
-a customizable view of employee data.
+The filters on the left allow users to adjust the report based on specific dates, stores, departments, and job titles, offering a customizable view of employee data.
 
-A key highlight is the organizational chart, which visually represents the company’s hierarchy, from the founder down to various 
-departments and roles, including sales, marketing, HR, and interns. This chart helps users easily understand the structure and 
-distribution of roles within the company. Additionally, the structural details table at the bottom with the bookmark feature can 
-provides individual employee information such as status, position, and type (full-time/part-time) along with insights into 
-the employee fluctuations over time.
+A key highlight is the organizational chart, which visually represents the company’s hierarchy, from the founder down to various departments and roles, including sales, marketing, HR, and interns. This chart helps users easily understand the structure and distribution of roles within the company. Additionally, the structural details table at the bottom with the bookmark feature can provides individual employee information such as status, position, and type (full-time/part-time) along with insights into the employee fluctuations over time.
 
-
+![455044152_122107672970445467_7293474706228423976_n (1)](https://github.com/user-attachments/assets/d3a846c0-3466-4b07-ac98-f095d5777588)
 
 ### 3. Employee Profile Research:
-This page is designed for detailed employee profile research. It features a search function that allows users to select an employee 
-from a list, displaying their information prominently at the top. For the selected employee, Cao Nhut Minh, key details such as 
-Employee ID, email, current position, department, work type, status, and tenure are shown.
+This page is designed for detailed employee profile research. It features a search function that allows users to select an employee from a list, displaying their information prominently at the top. For the selected employee, Cao Nhut Minh, key details such as Employee ID, email, current position, department, work type, status, and tenure are shown.
 
 The page is divided into two main sections:
 - Working Record: This section lists the employee's work history, including start and end dates, title, department, and store location.
 - Absent Record: This section outlines the employee's absence history, detailing the type of absence, date, and time for each recorded absence.
 
-<img width="972" alt="Customer Analysis Report" src="https://github.com/Miamac1506/retails-store-crm-analysis/assets/145936074/3027177a-9ee5-44b0-b5c2-057cfc1e6189">
+![454952671_122107673054445467_1011842154638320213_n (1)](https://github.com/user-attachments/assets/58399889-3d33-4378-a3e6-be8ac1ecf76b)
 
