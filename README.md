@@ -15,7 +15,6 @@ decisions, and improve human resource management more effectively.
 
 ## Overview of report pages:
 
-<img width="1155" alt="Sales Reports Overview" src="https://github.com/Miamac1506/retails-store-crm-analysis/assets/145936074/417c21b7-5d4b-44b6-b92b-05f757ae2304">
 
 ### 1. Overview of Human Resource Report: 
 This report page provides a comprehensive overview of the company's human resource status. Key metrics, 
@@ -28,7 +27,7 @@ The report also visualizes employee trends over time and across various dimensio
 store location. This allows HR professionals and management to track and assess workforce performance effectively,
 supporting strategic decision-making.
  
-<img width="1155" alt="Sales Reports Overview" src="https://github.com/Miamac1506/retails-store-crm-analysis/assets/145936074/417c21b7-5d4b-44b6-b92b-05f757ae2304">
+
 
 ### 2. Detailed of Human Resource Report:
 
@@ -42,7 +41,7 @@ distribution of roles within the company. Additionally, the structural details t
 provides individual employee information such as status, position, and type (full-time/part-time) along with insights into 
 the employee fluctuations over time.
 
-<img width="974" alt="Revenue Analysis Report" src="https://github.com/Miamac1506/retails-store-crm-analysis/assets/145936074/c6401bae-7443-4df3-b17f-1e4a717d7acf">
+
 
 ### 3. Employee Profile Research:
 This page is designed for detailed employee profile research. It features a search function that allows users to select an employee 
