@@ -31,7 +31,7 @@ supporting strategic decision-making.
  
 ![455084974_122107672892445467_812735856978716961_n (1)](https://github.com/user-attachments/assets/3e3179f8-2e0d-4c23-9efd-e609067dc908)
 
-### 2. Detailed of Human Resource Report:
+### 2. Detailes of Human Resource Report:
 
 This report page provides a detailed view of the company's active employee trends and organizational structure. 
 The filters on the left allow users to adjust the report based on specific dates, stores, departments, and job titles, offering a customizable view of employee data.
