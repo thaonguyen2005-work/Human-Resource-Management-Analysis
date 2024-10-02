@@ -14,6 +14,7 @@ leaders and the HR department, helping them assess the effectiveness of HR manag
 decisions, and improve human resource management more effectively.
 
 ## Overview of report pages:
+<img width="979" alt="Overview_pages" src="https://github.com/thaonguyen2005-work/Human-Resource-Management-Analysis/issues/1#issue-2562057465">
 
 
 ### 1. Overview of Human Resource Report: 
