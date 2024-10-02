@@ -28,7 +28,7 @@ The report also visualizes employee trends over time and across various dimensio
 store location. This allows HR professionals and management to track and assess workforce performance effectively,
 supporting strategic decision-making.
  
-
+https://github.com/thaonguyen2005-work/Human-Resource-Management-Analysis/issues/2#issue-2562071974
 
 ### 2. Detailed of Human Resource Report:
 
