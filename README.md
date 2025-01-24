@@ -1,6 +1,6 @@
 # Human Resource Management Report - Power BI
 
-## About
+## About 
 The Human Resource Management Report was one of the personal projects I worked on during my summer 
 internship at KPIM. For this project, I utilized Excel, Power Query, and Power Pivot to extract, 
 clean, and filter data from the database, ensuring the creation of accurate data that provided valuable 
