@@ -14,7 +14,7 @@ decisions, and improve human resource management more effectively.
 
 ## Data Model View
 
-![Image](https://github.com/user-attachments/assets/ae2cfd1a-b6fe-46d7-a375-0b3037286fbf)
+![Image](https://github.com/user-attachments/assets/20ebafe3-4658-4cbe-90ea-1091af1bdc87)
 
 ## Overview of report pages:
 
