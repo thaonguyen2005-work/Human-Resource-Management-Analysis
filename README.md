@@ -12,6 +12,10 @@ geographic location, job position, and department. This provided comprehensive H
 leaders and the HR department, helping them assess the effectiveness of HR management, make strategic 
 decisions, and improve human resource management more effectively.
 
+## Data Model View
+
+![Image](https://github.com/user-attachments/assets/ae2cfd1a-b6fe-46d7-a375-0b3037286fbf)
+
 ## Overview of report pages:
 
 ![454964798_122107672784445467_8206579710544945760_n (1)](https://github.com/user-attachments/assets/2821d9ce-5d0c-4654-a44b-24cd3622a8a7)
